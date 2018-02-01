@@ -24,4 +24,10 @@ nav{
     text-align: center;
     margin: 20px;
     font-weight: 400;
+    text-decoration: none;
+}
+
+a {
+    color: whitesmoke;
+    text-decoration: none;
 }
